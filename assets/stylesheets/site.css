@@ -1,0 +1,18 @@
+h1.title_page { 
+  padding-top: 70px; 
+  text-align: center;
+}
+
+.jumbotron {
+  background-image: url(../images/scotland.jpg);
+  margin-bottom: 0px;
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  height: 100vh;
+}
+
+ul.places {
+  list-style: none;
+}
